@@ -1,2 +1,2 @@
-#!/bin/basdfd
+#!/bin/bash
 ls -al . .. /boot
